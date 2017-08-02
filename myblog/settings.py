@@ -25,7 +25,7 @@ SECRET_KEY = 'gtm$7x%k5-#4+___26-18i^)5ht%h6xkt=vszkr+k8jop$z&t%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '[你的Heroku APP編號].herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'myblog3.herokuapp.com']
 
 # Application definition
 
